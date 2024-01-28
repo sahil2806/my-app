@@ -1,0 +1,263 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* home */
+.weblogo {
+    width: 65px;
+  }
+  
+  .navbar {
+    background-color: #0000009c !important;
+  }
+  
+  .navbar-nav li {
+    padding: 0 10px;
+    display: block;
+  }
+  
+  .navbar-nav li:hover {
+    background-color: #fcb01b;
+  }
+  
+  
+  .navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  
+  .moblogo {
+    display: none;
+  }
+  
+  
+  .img123 {
+    width: 80%;
+  }
+  
+  .a {
+    padding-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+  
+  .b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: justify;
+  }
+  
+  .banner {
+    background: url(https://www.firstfiddle.in/_next/static/media/bg1.8754bf8b.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .c {
+    margin-top: 102px;
+    font-family: prague;
+    color: #fff;
+    font-size: 50px;
+  }
+  
+  .d {
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: white;
+  }
+  
+  footer {
+    background-color: #212529;
+    color: white;
+  }
+  
+  @media (max-width: 768px) {
+    .img123 {
+      width: 100%;
+      margin-top: 77px;
+    }
+  
+    .moblogo {
+      display: block;
+    }
+  
+    .weblogo {
+      display: none;
+    }
+  
+    .navbar {
+      background: #fcb21b !important;
+    }
+  }
+  
+  /* about end */
+  
+  .why {
+    background: url(https://firstfiddleweb.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+  }
+  
+  .ccc {
+    margin-top: 350px;
+    font-size: 57px;
+  }
+  
+  .about_part_a {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+  
+  }
+  
+  .part2_bac {
+    background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 376px;
+    margin-bottom: 50px;
+  }
+  
+  .part2_set {
+    margin-top: 87px;
+    font-size: 18px;
+  }
+  
+  
+  @media(max-width: 1090px) {
+    .why {
+      width: 100%;
+    }
+  }
+  
+  
+  /* barand start */
+  
+  .brandbanner {
+    background: url(https://pn-paul.netlify.app/image/brands.jpg  );
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    font-size: 60px;
+  }
+  
+  
+  /* our tem start */
+  
+  .ourbanner {
+    background: url(https://pn-paul.netlify.app/image/new-our-team.jpg );
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    font-size: 60px;
+  }
+  
+  .ourteamdiv{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    font-size: 36px;
+    color:white;
+    font-style: oblique;
+    font-weight: 400;
+      
+  }
+  
+  /* press release start */
+  
+  
+  .releasebanner {
+    background: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    font-size: 55px;
+  }
+  
+  .press_release_scroll{
+    height: 645px;
+    overflow: scroll;
+  }
+  
+   /* contact us */
+  
+   .contact{
+    background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    font-size: 55px;
+  }
+  
+  span{
+    color: #ffad00;
+  }
+  
+  /* carrers */
+  
+  .CAREERS{
+    background: url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    font-size: 55px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
